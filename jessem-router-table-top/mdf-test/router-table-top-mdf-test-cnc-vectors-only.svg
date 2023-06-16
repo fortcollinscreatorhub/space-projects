@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36in"
+   height="24in"
+   viewBox="0 0 36 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="router-table-top-cnc-vectors-only.svg"
+   inkscape:export-filename="router-table-top.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="0.50186628"
+     inkscape:cx="1816.2208"
+     inkscape:cy="1009.233"
+     inkscape:window-width="3421"
+     inkscape:window-height="2100"
+     inkscape:window-x="363"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1)">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:round;stroke-dasharray:none;-inkscape-stroke:hairline;stop-color:#000000"
+       id="rect234"
+       width="36"
+       height="24"
+       x="-36"
+       y="-25"
+       transform="scale(-1)" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:round;stroke-dasharray:none;-inkscape-stroke:hairline;stop-color:#000000"
+       id="rect865"
+       width="12"
+       height="9.5"
+       x="-24"
+       y="-22.5"
+       ry="0.75"
+       rx="0.75"
+       transform="scale(-1)" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:round;stroke-dasharray:none;-inkscape-stroke:hairline;stop-color:#000000"
+       id="rect867"
+       width="9.75"
+       height="7.25"
+       x="-22.875"
+       y="-21.375"
+       ry="0.75"
+       rx="0.75"
+       transform="scale(-1)" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:round;stroke-dasharray:none;-inkscape-stroke:hairline;stop-color:#000000"
+       id="rect358"
+       width="38"
+       height="0.75"
+       x="-37"
+       y="-6.5"
+       transform="scale(-1)" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:round;stroke-dasharray:none;-inkscape-stroke:hairline;stop-color:#000000"
+       id="rect369"
+       width="8"
+       height="0.375"
+       x="-23"
+       y="32.8125"
+       transform="rotate(-90)"
+       ry="0.125"
+       rx="0.125" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:round;stroke-dasharray:none;-inkscape-stroke:hairline;stop-color:#000000"
+       id="rect371"
+       width="8"
+       height="0.375"
+       x="-23"
+       y="2.8125"
+       transform="rotate(-90)"
+       ry="0.125"
+       rx="0.125" />
+  </g>
+</svg>
