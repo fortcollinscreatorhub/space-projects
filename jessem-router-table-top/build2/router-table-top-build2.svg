@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="0.57272177"
-     inkscape:cx="2117.9569"
-     inkscape:cy="1479.7761"
+     inkscape:zoom="0.49900733"
+     inkscape:cx="1617.2107"
+     inkscape:cy="1662.3002"
      inkscape:window-width="3828"
      inkscape:window-height="2088"
      inkscape:window-x="0"
@@ -129,7 +129,7 @@
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="-12.006918"
          y="1.687664"
-         id="tspan3183">Left - 24+&quot; - Rubber strip</tspan></text>
+         id="tspan3183">Left - &lt;30&quot; - Rubber strip</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:0.5px;line-height:0.5px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0104167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -141,7 +141,7 @@
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="-12.382895"
          y="38.588215"
-         id="tspan3187">Right - 24&quot;+ - Rubber strip</tspan></text>
+         id="tspan3187">Right - &lt;30+ - Rubber strip</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:0.5px;line-height:0.333333px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0104167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -168,12 +168,12 @@
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="29.47526"
          y="26.848217"
-         id="tspan494">1.75 + 0.01&quot; width</tspan><tspan
+         id="tspan494">1.75&quot; width; 1.76&quot; with slop</tspan><tspan
          sodipodi:role="line"
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="29.47526"
          y="27.348217"
-         id="tspan1089">17/32==0.53125 + 0.005&quot; depth</tspan></text>
+         id="tspan1089">17/32&quot; height; 0.55&quot; with slop</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:0.5px;line-height:0.5px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0104167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -290,7 +290,7 @@
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="24.958965"
          y="7.734314"
-         id="tspan11268">12.094&quot;</tspan></text>
+         id="tspan11268">&lt;13.375&quot;</tspan></text>
     <path
        style="vector-effect:non-scaling-stroke;fill:#000000;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.0104167;stroke-linecap:round;-inkscape-stroke:hairline;stop-color:#000000"
        d="M 0,17.75 H 40"
@@ -537,12 +537,12 @@
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="-14.717163"
          y="8.4682159"
-         id="tspan2352">0.75&quot; + 0.01&quot; wide</tspan><tspan
+         id="tspan2352">0.75&quot; wide; 0.76 with slop</tspan><tspan
          sodipodi:role="line"
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="-14.717163"
          y="8.9682159"
-         id="tspan2350">0.375 + 0.005&quot; depth</tspan></text>
+         id="tspan2350">0.375 depth; 0.38 with slop</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:0.5px;line-height:0.5px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0104167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -580,17 +580,17 @@
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="-14.717163"
          y="33.968216"
-         id="tspan2944">Fence T slot</tspan><tspan
+         id="tspan2948">Fence T slot</tspan><tspan
          sodipodi:role="line"
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="-14.717163"
          y="34.468216"
-         id="tspan2946">0.75&quot; + 0.01&quot; wide</tspan><tspan
+         id="tspan604">0.75&quot; wide; 0.76 with slop</tspan><tspan
          sodipodi:role="line"
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="-14.717163"
          y="34.968216"
-         id="tspan2948">0.375 + 0.005&quot; depth</tspan></text>
+         id="tspan606">0.375 depth; 0.38 with slop</tspan></text>
     <path
        style="fill:#000000;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.02;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
        d="M 20,2 V 29.749999"
@@ -611,6 +611,6 @@
          style="font-size:0.5px;fill:#ff0000;stroke-width:0.0104167px"
          x="-9.4521599"
          y="19.784586"
-         id="tspan596">18&quot; from side</tspan></text>
+         id="tspan596">&lt;18&quot; from side</tspan></text>
   </g>
 </svg>
