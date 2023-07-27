@@ -1,0 +1,9 @@
+Here's some files that describe the layout of the creator hub:
+
+floorplan.dxf is the basic source, and documents the dimensions of the building features as well as the equipment inside.
+
+floorplan.svg is an auto-generated SVG export from the DXF, made using Q-CAD..  There may be a more lightweight/FLOSS method of doing this, but this _somewhat_ preserves the layer and group attributes of the underlying DXF, which are used later..
+
+makefile for building first an cleaner version of the SVG, which cleans up some unallowed colons in the layer attribute name, and also moves block reference names from comments into class attributes.  Two separate SVGs are made with different viewport and overall dimensions.  These are then rendered in a browser with separate style sheets to make two PNG files for use on the website.
+
+TODO - the organization of the dxf probably needs some work - right now it's a first-pass hack, and some it would be nice to put some thought into how to organize the items by layer and/or group for whatever the final use-case will be.  Multi-line text is also not handled very well.

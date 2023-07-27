@@ -1,0 +1,55 @@
+svg { stroke-linecap:round;
+      stroke-linejoin:round;
+      fill:none }
+
+/* Set some basic colors and styles */
+path {  stroke: black; stroke-width: 1.5px; fill-opacity:0.2; }
+line {  stroke: black; stroke-width: 1.5px; fill-opacity:0.2; }
+text {  fill: black; stroke-width: 0; font-family: Arial; font-size:12px; }
+
+/* Generally hide the mezzanine and mechanical items.... */
+path[qslayer="mezzanine"] { display:none; }
+path[qslayer="areas"] { stroke:none }
+[qslayer="mechanical"] { display:none; }
+
+/* Hide area labels */
+text[qslayer="areas"] { display: none;}
+
+/* Except for the 3d printers - we'll shift these over by a few pixels and
+ display the mezzanine outline */
+g[class^="3dprinterarea"] { transform:translate(-200px,0); }
+g[class^="3dprinterarea"] path { display:inline; }
+g[class^="3dprinterarea"] path[qslayer="areas"] { stroke: black;
+						  fill:lightblue; }
+
+/* Make pallet racks really transparent and remove labels */
+g[class^="palletrack"] > path { fill-opacity:0.05; }
+g[class^="palletrack"] > text { display: none; }
+
+/* Remove labels for worktable7 and shelf2, since they'll overlap
+   other equipment */
+g[class^="worktable7"] > text { display: none; }
+g[class^="shelf2"] > text     { display: none; }
+
+
+/* Set specific colors for other areas... */
+g[class^="3dprinterarea"] path:not([qslayer="areas"])  { stroke: darkblue;
+							 fill:blue; }
+g[class^="classroomarea"] path:not([qslayer="areas"])  { stroke: gold;
+							 fill: yellow; }
+g[class^="cocreatorarea"] path:not([qslayer="areas"])  { stroke: darkorange;
+							 fill: orange; }
+g[class^="craftingarea"] path:not([qslayer="areas"])   { stroke: darkorange;
+							 fill: orange; }
+g[class^="electronicsarea"] path:not([qslayer="areas"]){ stroke: darkblue;
+							 fill:blue; }
+g[class^="generalarea"] path:not([qslayer="areas"])    { stroke: darkgreen;
+							 fill: green; }
+g[class^="laserarea"] path:not([qslayer="areas"])      { stroke: maroon;
+							 fill: red; }
+g[class^="metalarea"] path:not([qslayer="areas"])      { stroke: darkslategray;
+							 fill: slategray; }
+g[class^="sewingarea"] path:not([qslayer="areas"])     { stroke: maroon;
+							 fill: red; }
+g[class^="woodarea"] path:not([qslayer="areas"])       { stroke: darkmagenta;
+							 fill: magenta; }
