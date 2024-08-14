@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="1.1.04" FormatVersion="1" MaterialHeight="0" MirrorX="True" MirrorY="True">
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="-1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="1"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="1"/>
+        <Optimize_AllowReverse Value="0"/>
+        <Optimize_RemoveOverlaps Value="1"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="0"/>
+        <name Value="Outer 5mm"/>
+        <minPower Value="80"/>
+        <maxPower Value="80"/>
+        <minPower2 Value="10"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <priority Value="1"/>
+        <PPI Value="0"/>
+        <perfLen Value="25.4"/>
+        <perfSkip Value="25.4"/>
+        <dotTime Value="1"/>
+        <overscan Value="0"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="2"/>
+        <name Value="Holes"/>
+        <minPower Value="80"/>
+        <maxPower Value="80"/>
+        <minPower2 Value="10"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <priority Value="0"/>
+        <PPI Value="0"/>
+        <perfLen Value="0.01016"/>
+        <perfSkip Value="0.01016"/>
+        <dotTime Value="1"/>
+        <overscan Value="0"/>
+    </CutSetting>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1.31134e-7 1 -1 1.31134e-7 674.562 -190.603</XForm>
+        <Children>
+            <Shape Type="Path" CutIndex="2" VertID="1" PrimID="0">
+                <XForm>-4.37114e-8 1 -1 -4.37114e-8 527.754 329.363</XForm>
+                <VertList>V-190.35455 245.11995c0x-190.35455c0y245.94153c1x1V-188.8721 246.61984c0x-188.05055c0y246.62946c1x-189.69363c1y246.61023V-187.35497 245.155c0x-187.33577c0y244.33363c1x-187.37416c1y245.97638V-188.80197 243.62086c0x-189.62305c0y243.59207c1x-187.98088c1y243.64967V-190.35292 245.04984c0x1c1x-190.31451c1y244.22916</VertList>
+                <PrimList>B0 1B1 2B2 3B3 4</PrimList>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2" Ry="2">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 390.634 206.258</XForm>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="2" PrimID="0">
+                <XForm>-4.37114e-8 1 -1 -4.37114e-8 527.754 329.363</XForm>
+                <VertList>V-160.35457 245.11995c0x-160.35457c0y245.94154c1x1V-158.8721 246.61984c0x-158.05057c0y246.62946c1x-159.69363c1y246.61024V-157.35498 245.155c0x-157.33578c0y244.33363c1x-157.37418c1y245.97636V-158.80199 243.62086c0x-159.62306c0y243.59207c1x-157.9809c1y243.64967V-160.35294 245.04984c0x1c1x-160.31453c1y244.22916</VertList>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 288.584 132.508</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 372.584 132.508</XForm>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="0" PrimID="0">
+                <XForm>-4.37114e-8 1 -1 -4.37114e-8 527.754 329.363</XForm>
+                <VertList>V-175.35455 174.11995c0x-175.35455c0y174.94153c1x1V-173.8721 175.61984c0x-173.05055c0y175.62946c1x-174.69363c1y175.61023V-172.35497 174.155c0x-172.33577c0y173.33363c1x-172.37416c1y174.97638V-173.80197 172.62086c0x-174.62305c0y172.59207c1x-172.98088c1y172.64967V-175.35292 174.04984c0x1c1x-175.31451c1y173.22916</VertList>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 372.584 178.508</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2" Ry="2">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 270.634 104.758</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="11.840774" Ry="11.840774">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 310.634 155.508</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2" Ry="2">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 390.634 104.758</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2" Ry="2">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 270.634 206.258</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 288.584 178.508</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="0" W="120" H="130" Cr="5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 330.634 155.508</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1.31134e-7 1 -1 1.31134e-7 675.235 -58.7093</XForm>
+        <Children>
+            <Shape Type="Path" CutIndex="2" VertID="1" PrimID="0">
+                <XForm>-4.37114e-8 1 -1 -4.37114e-8 527.754 329.363</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2" Ry="2">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 390.634 206.258</XForm>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="2" PrimID="0">
+                <XForm>-4.37114e-8 1 -1 -4.37114e-8 527.754 329.363</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 288.584 132.508</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 372.584 132.508</XForm>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="0" PrimID="0">
+                <XForm>-4.37114e-8 1 -1 -4.37114e-8 527.754 329.363</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 372.584 178.508</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2" Ry="2">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 270.634 104.758</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="11.840774" Ry="11.840774">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 310.634 155.508</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2" Ry="2">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 390.634 104.758</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2" Ry="2">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 270.634 206.258</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 288.584 178.508</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="0" W="120" H="130" Cr="5">
+                <XForm>4.37114e-8 -1 -1 -4.37114e-8 330.634 155.508</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
