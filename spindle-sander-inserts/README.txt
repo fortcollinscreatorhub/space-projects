@@ -1,0 +1,1 @@
+Larger Spindle Sander Plates for Craftsman Spindle Sander by Hank-Cowdog on Thingiverse: https://www.thingiverse.com/thing:7025479
