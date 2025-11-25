@@ -1,6 +1,6 @@
-= CMA5136T alignment jig & ruler
+# CMA5136T alignment jig & ruler
 
-== Manufacturing a jig
+## Manufacturing a jig
 
 * Place 48" w x 24" h 1/4" thick wood sheet into the large LASER without any
 jig present. Push the sheet into the very far back/right corner.
@@ -21,7 +21,7 @@ the new jig at the origin.
 
 * Load and run `cma5136t-alignment-jig-engrave-main-labels.lbrn2`.
 
-== Updating the ruler image
+## Updating the ruler image
 
 * Execute `gen-ruler.py`.
 
